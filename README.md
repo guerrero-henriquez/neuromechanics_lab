@@ -61,4 +61,4 @@ conference-presentations
 
 Neuromechanics Laboratory  
 Universidad de Antofagasta  
-Instagram: @neuromecanica
+Instagram: @neuromecanica.lab
