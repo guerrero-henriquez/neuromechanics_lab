@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use materials from this repository, please cite the corresponding original paper, poster, or conference presentation."
+title: "Neuromechanics Laboratory Publications"
+authors:
+  - family-names: "Neuromechanics Laboratory"
+version: "1.0.0"
+date-released: "2026-05-13"
